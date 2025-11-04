@@ -1,28 +1,27 @@
-<h3>👋 Hi there, Dede Arif Gunawan</h3>
+# 👋 Hi there! I'm [Dede](https://dedear.my.id)!
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=400&lines=IT+Support+%7C+Programmer+%7C+Investor" alt="Typing SVG" /></p>
 
 Profesional TI berpengalaman 15+ tahun, fokus pada keandalan sistem melalui instalasi, pemeliharaan, dan troubleshooting perangkat keras, jaringan, serta software. Terbukti meningkatkan kinerja layanan di sektor telekomunikasi dan infrastruktur internet, serta mengembangkan bisnis online dengan standar layanan tinggi.
 
 ## Languages & Tools
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-01D5A0?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
+![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&color=7F52FF)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=A8B9CC)
+![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&color=336791)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
+![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&color=CC342D)
+![TailwindCSS](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwind-css&color=38B2AC)
+![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
+![Flask](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&color=000000)
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=F05032)
+![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
+![Linux](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&color=FCC624)
+![VSCode](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&logo=visual-studio-code&color=007ACC)
 
 ## GitHub Overview
 
