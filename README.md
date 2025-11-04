@@ -1,5 +1,5 @@
 [<h3> 👋 Hi there, Dede Arif Gunawan </h3>
-<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=400&lines=IT+Support+%7C+Programer+%7C+Investor+%7C" alt="Typing SVG" /></p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=400&lines=IT+Support+%7C+Programer+%7C+Investor" alt="Typing SVG" /></p>
 
 Profesional TI berpengalaman 15+ tahun , fokus pada keandalan sistem melalui instalasi, pemeliharaan, dan troubleshooting perangkat keras, jaringan, serta software. Terbukti meningkatkan kinerja layanan di sektor telekomunikasi dan infrastruktur internet serta mengembangkan bisnis online dengan standar layanan tinggi .
 
