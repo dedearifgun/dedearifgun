@@ -1,6 +1,9 @@
-# 👋 Hi there! I'm [Dede](https://dedear.my.id)!
+<h3> 👋 Hi there, Dede Arif Gunawan </h3>
+<p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=400&lines=IT+Support+%7C+Programer+%7C+Investor+%7C" alt="Typing SVG" /></p>
 
-Saya adalah seorang profesional di bidang Teknologi Informasi dengan pengalaman lebih dari 15 tahun dalam instalasi, pemeliharaan, serta troubleshooting perangkat keras, jaringan, dan software. Memiliki rekam jejak bekerja di industri telekomunikasi, infrastruktur internet, hingga mengelola bisnis online dengan reputasi tinggi.
+Profesional TI berpengalaman 15+ tahun , fokus pada keandalan sistem melalui instalasi, pemeliharaan, dan troubleshooting perangkat keras, jaringan, serta software. Terbukti meningkatkan kinerja layanan di sektor telekomunikasi dan infrastruktur internet serta mengembangkan bisnis online dengan standar layanan tinggi .
+
+<h3>💡 Pemula Bersemangat di Dunia Programing 🚀</h3>
 
 ## Languages & Tools
 
